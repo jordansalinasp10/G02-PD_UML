@@ -1,9 +1,8 @@
 package DepartamentoDeLogistica;
-
 public class Logistica {
-
-	public void enviarArticulos(Articulo[] articulos, LogisticaStrategy tipoDeEnvio) {
-
+	//Logica del departamento de logistica
+	
+	public void enviarArticulos(Articulo[] articulos, LogisticaStrategy tipoDeEnvio) {		
+		tipoDeEnvio.transportar(articulos);
 	}
-
 }
