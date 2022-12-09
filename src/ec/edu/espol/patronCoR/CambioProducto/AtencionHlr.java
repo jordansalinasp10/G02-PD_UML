@@ -1,3 +1,5 @@
+package ec.edu.espol.patronCoR.CambioProducto;
+
 public class AtencionHlr extends CambioProductoHlr {
 
 	/**

@@ -1,8 +1,10 @@
+package ec.edu.espol.patronCoR.CambioProducto;
+
 import java.util.*;
 
 public class Producto {
 
-	private Collection<Categoria> productos;
+	private Categoria categoria;
 	private Integer stock;
 
 }

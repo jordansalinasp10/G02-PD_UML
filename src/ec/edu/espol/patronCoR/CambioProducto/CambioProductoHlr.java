@@ -1,3 +1,5 @@
+package ec.edu.espol.patronCoR.CambioProducto;
+
 public abstract class CambioProductoHlr {
 
 	/**
